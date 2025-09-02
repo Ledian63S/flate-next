@@ -1,9 +1,9 @@
 {
 	"name": "flate-next",
 	"displayName": "Flate Next",
-	"description": "Dark Colored Theme for VS Code.",
+	"description": "Flate Theme, but with some tweaks.",
 	"version": "0.0.1",
-	"publisher": "lleka",
+	"publisher": "lekaledian",
 	"icon": "assets/logo.png",
 	"author": {
 		"name": "Ledian",
@@ -11,6 +11,14 @@
 		"url": "https://ledian63s.github.io//"
 	},
 	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Ledian63S/flate-next/issues"
+	},
+	"homepage": "https://github.com/Ledian63S/flate-next#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ledian63S/flate-next"
+	},
 	"engines": {
 		"vscode": "^1.103.0"
 	},
