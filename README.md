@@ -3,5 +3,5 @@
   <br/>
 </p>
 <div align="center">
-  <img alt="flate logo" src="https://github.com/Ledian63S/flate-next/blob/master/assets/banner.png"/>
+  <img alt="flate logo" src="https://raw.githubusercontent.com/Ledian63S/flate-next/refs/heads/master/assets/banner.png"/>
 </div>
